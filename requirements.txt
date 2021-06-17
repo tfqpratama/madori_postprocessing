@@ -1,0 +1,36 @@
+certifi==2021.5.30
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+cycler==0.10.0
+Cython==0.29.23
+cytoolz==0.11.0
+dask @ file:///tmp/build/80754af9/dask-core_1620827757075/work
+decorator @ file:///tmp/build/80754af9/decorator_1620904181799/work
+fsspec @ file:///tmp/build/80754af9/fsspec_1617959894824/work
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282414123/work
+locket==0.2.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853974840/work
+mkl-service==2.3.0
+networkx==2.2
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1618497199865/work
+olefile==0.46
+opencv-python==4.5.2.52
+pandas==1.2.4
+partd @ file:///tmp/build/80754af9/partd_1618000087440/work
+Pillow @ file:///tmp/build/80754af9/pillow_1617386154241/work
+pycocotools==2.0.2
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyWavelets @ file:///tmp/build/80754af9/pywavelets_1601658308664/work
+PyYAML==5.4.1
+scikit-image==0.18.1
+scipy @ file:///tmp/build/80754af9/scipy_1618852618548/work
+Shapely @ file:///tmp/build/80754af9/shapely_1599817087478/work
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+tifffile==2020.10.1
+toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
+tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
+tqdm==4.60.0
